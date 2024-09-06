@@ -2,7 +2,7 @@
 
 ## 🎨 Screenshots
 
-![Screenshot]()
+![Screenshot](/static/Screenshots.png)
 Welcome to the **Fitness Journey App**! This web app helps users schedule fitness classes by entering their details and picking their preferred class type and time. The app provides a preview before confirming the final class booking.
 
 ## 🌟 Features
