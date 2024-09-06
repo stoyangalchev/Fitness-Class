@@ -20,7 +20,7 @@ To run the app locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/stoyangalchev/Fitness-journey.git
+   git clone https://github.com/stoyangalchev/Fitness-Class.git
    ```
 
 2. Navigate to the project folder:
