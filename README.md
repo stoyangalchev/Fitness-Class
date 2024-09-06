@@ -1,7 +1,7 @@
 # 🏋️‍♀️ Start Your Fitness Journey App
-## 🌍 Deployed by Github Pages -> [Click Here For Demo](https://stoyangalchev.github.io/Car-Parts/)
+## 🌍 Deployed by Github Pages -> [Click Here For Demo](https://stoyangalchev.github.io/Fitness-Class/)
 ## 🎨 Screenshot
-![Screenshot](/static/Screenshot 2024-09-06 at 15.41.52.png)
+![Screenshot](/static/Screenshot.png)
 Welcome to the **Fitness Journey App**! This web app helps users schedule fitness classes by entering their details and picking their preferred class type and time. The app provides a preview before confirming the final class booking.
 
 ## 🌟 Features
