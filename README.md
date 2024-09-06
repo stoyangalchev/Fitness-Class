@@ -1,5 +1,5 @@
 # 🏋️‍♀️ Start Your Fitness Journey App
-## Deployed with Github Pages -> [Click Here](https://stoyangalchev.github.io/Car-Parts/)
+## 🌍 Deployed with Github Pages -> [Click Here](https://stoyangalchev.github.io/Car-Parts/)
 ## 🎨 Screenshots
 
 ![Screenshot](/static/Screenshots.png)
